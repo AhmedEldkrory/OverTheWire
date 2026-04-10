@@ -1,43 +1,53 @@
-Ahmed Abdelaziz Eldkrory – OverTheWire Wargames Repository
-Junior Penetration Tester
-📧 Email: ahmed.a.eldkrory@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/ahmed-eldkrory
-👾 OverTheWire: EDGAR
-✍️ Medium: Ahmed Abdelaziz Eldkrory
+# Ahmed Abdelaziz Eldkrory – OverTheWire Learning Repository
 
-Overview
-This repository serves as a professional archive for my progress through the OverTheWire wargame series. It contains structured reports, technical notes, and methodology write-ups documenting my journey from fundamental Linux command-line mastery to advanced system exploitation.
+*Junior Penetration Tester*
 
-The focus is on:
+📧 **Email:** ahmed.a.eldkrory@gmail.com
+🔗 **LinkedIn:** [www.linkedin.com/in/ahmed-eldkrory](https://www.linkedin.com/in/ahmed-eldkrory)
+* **TryHackMe:** [EDGAR](https://tryhackme.com/p/EDGAR)
+* **Medium:** [Ahmed Abdelaziz Eldkrory](https://medium.com/@ahmed-eldkrory)
 
-Linux Internals: Deep diving into file systems, permissions, and process management.
+---
 
-Methodology: Documenting the "how" and "why" behind every level, not just the solution.
+## **Overview**
 
-Security Insight: Identifying real-world vulnerabilities simulated within the wargame environment.
+This repository serves as a central reference for all **OverTheWire wargames** that I have completed or will complete in the future.
+It contains structured reports, technical notes, and write-ups summarizing my personal learning, command-line methodology, and reflections on Linux security tasks.
 
-Purpose
-The goal of this repository is to:
+**The focus is on:**
+* Understanding core Linux concepts and terminal-based tools
+* Documenting ethical, practical learning experiences in a server environment
+* Building a personal reference for privilege escalation and system auditing
 
-Showcase Technical Growth: Track my evolution from basic navigation (Bandit) to complex binary and network challenges.
+---
 
-Standardize Documentation: Practice high-quality, professional report writing suitable for cybersecurity assessments.
+## **Purpose**
 
-Build a Knowledge Base: Create a searchable reference for commands, terminal tricks, and privilege escalation techniques.
+**The goal of this repository is to:**
+* Keep a **structured record** of all solved wargame levels
+* Maintain a **personal learning archive** of Linux command-line mastery
+* Provide a **reference for future practice** or complex technical workflows
 
-How to Use
-Browse Level Reports: Review the structured write-ups for specific wargames (e.g., Bandit, Leviathan, Natas).
+This is intended as a personal portfolio and a study resource for anyone interested in **Linux fundamentals, command-line security, and wargame challenges.**
 
-Refer to Techniques: Check individual level sections for specific command usage (e.g., find filters, ssh port forwarding, or strings analysis).
+---
 
-Follow the Path: Use this as a roadmap for your own learning journey through the OverTheWire challenges.
+## **How to Use**
 
-Key Takeaways
-Terminal Mastery: Fluidity in the Linux CLI is the most critical skill for any security professional.
+1. **Browse the reports** to review the methodology for completed levels.
+2. **Check specific level files** for command examples, tool usage, and security insights.
+3. **Review the technical notes** to understand the reasoning behind complex data filtering and system searches.
 
-Creative Problem Solving: Learning to bypass system restrictions through logical reasoning.
+---
 
-Documentation Discipline: Clear reporting is as important as the technical exploit itself.
+## **Key Takeaways**
 
-License & Ethics
-This repository is for educational purposes only. It is a personal record of my learning journey. All content follows ethical cybersecurity principles and is documented to demonstrate professional reasoning without violating wargame rules.
+* Documenting wargames strengthens **technical precision** and CLI fluidity.
+* Keeping references helps **quickly recall** complex flags and administrative tools.
+* Ethical learning and reflection are crucial for building a **strong cybersecurity foundation**.
+
+---
+
+## **License**
+
+This repository is for **educational purposes only** and is a personal record of my learning journey. All content follows ethical cybersecurity principles and OverTheWire community guidelines.
